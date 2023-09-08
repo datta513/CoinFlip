@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main {
+  background-color: #e2a139;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+img {
+  height: 30vh;
+  width: 10vw;
+  margin: 15px;
+}
+.result {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.sec {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  padding: 20px;
+}
